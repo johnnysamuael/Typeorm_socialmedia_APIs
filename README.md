@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Social Media API
 
 Steps to run this project:
 
